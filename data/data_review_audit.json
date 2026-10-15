@@ -1,0 +1,21 @@
+{
+  "reviewed_pairs": 50,
+  "additional_changed_targets": 40,
+  "previous_overrides": 6,
+  "total_overrides": 46,
+  "raw_sha256": {
+    "data/raw/test_inputs.jsonl": "2e7449ffc35d7e411abd0d4c9cdf4d20a64b0d82d93fad5b64c5698e421aeea0",
+    "data/raw/train_type1.jsonl": "3891f464271f996ceb413928415501ea31754fd8852c4ba0c81784ae30e7c950",
+    "data/raw/train_type2.jsonl": "447ce828b2f6911cf47995b9c1d922dfb13f73e2f0f0e32f710f2fa805427d12"
+  },
+  "payload_sha256": {
+    "target_overrides.json": "d7ed22e66ea47960154777bf65598086f157d3d6afd34e33db7dd4219d760c5c",
+    "DATA_REVIEW_checked.md": "ce720f806040a6c665f6f53040cd943b7b681eb0fbd990d0df59c6eb1e22307f",
+    "DATA_REVIEW_AUDIT.md": "f96ee48ada1922751e2fa99709df5f3c34196ed929409ee057dbf1f7815a8dc0"
+  },
+  "current_documents_sha256": {
+    "DATA_REVIEW.md": "61ea5c63cbb3a144db902099e26de3209072fea61dd654901bfd0110b9f3fa1a",
+    "DATA_REVIEW_AUDIT.md": "11f47eed451e384c711799114a101c9672b1da3cceedae7aa6ad4727992de7d3"
+  },
+  "documentation_note": "payload_sha256 относится к первоначальному комплекту проверки данных. Перед финальной упаковкой в двух Markdown-документах нейтрализованы служебные формулировки; current_documents_sha256 относится к текущим документам. Исходники, target_overrides и processed-данные не изменялись."
+}

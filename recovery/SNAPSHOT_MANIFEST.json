@@ -1,0 +1,9 @@
+{
+  "purpose": "Restore previously saved V1 texts, not a new model run",
+  "saved_files_sha256": {
+    "REVIEW.md": "b37bfd1d1afb388ead74c020b1827e629af82cd01628c6e725fe811e4a0a262d",
+    "outputs_type1.txt": "f27e79679b9c82cc73dd8e61c5445f5694b68aacda956c023958bb15a4073eb4",
+    "outputs_type2.txt": "04e83dc44ecfd352b8d40e73135966772a03e604812d3731db963c3820d7e11d"
+  },
+  "test_inputs_sha256": "2e7449ffc35d7e411abd0d4c9cdf4d20a64b0d82d93fad5b64c5698e421aeea0"
+}
